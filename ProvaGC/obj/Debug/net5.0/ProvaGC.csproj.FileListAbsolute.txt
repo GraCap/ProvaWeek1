@@ -1,0 +1,16 @@
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\bin\Debug\net5.0\ProvaGC.exe
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\bin\Debug\net5.0\ProvaGC.deps.json
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\bin\Debug\net5.0\ProvaGC.runtimeconfig.json
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\bin\Debug\net5.0\ProvaGC.runtimeconfig.dev.json
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\bin\Debug\net5.0\ProvaGC.dll
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\bin\Debug\net5.0\ref\ProvaGC.dll
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\bin\Debug\net5.0\ProvaGC.pdb
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\obj\Debug\net5.0\ProvaGC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\obj\Debug\net5.0\ProvaGC.AssemblyInfoInputs.cache
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\obj\Debug\net5.0\ProvaGC.AssemblyInfo.cs
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\obj\Debug\net5.0\ProvaGC.csproj.CoreCompileInputs.cache
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\obj\Debug\net5.0\ProvaGC.dll
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\obj\Debug\net5.0\ref\ProvaGC.dll
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\obj\Debug\net5.0\ProvaGC.pdb
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\obj\Debug\net5.0\ProvaGC.genruntimeconfig.cache
+C:\Users\graziella.caputo\Desktop\PROVA\ProvaGC\ProvaGC\obj\Debug\net5.0\ProvaGC.csprojAssemblyReference.cache

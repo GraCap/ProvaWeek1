@@ -1,0 +1,14 @@
+2020-12-3;Viaggio;Roma-Milano;50
+2020-7-9;Alloggio;Hotel Eden;250
+2020-7-9;Vitto;Pranzo;34
+2020-7-9;Viaggio;Roma-Berlino;350
+2020-8-10;Altro;Acquisti Personali;3000
+2021-7-9;Alloggio;Hotel Luxury;1500
+2021-7-9;Vitto;Cena;500
+2020/12/3;Viaggio;Roma-Milano;50
+2020/7/9;Alloggio;Hotel Eden;250
+2020/7/9;Vitto;Pranzo;34
+2020/7/9;Viaggio;Roma-Berlino;350
+2020/8/10;Altro;Acquisti Personali;3000
+2021/7/9;Alloggio;Hotel Luxury;1500
+2021/7/9;Vitto;Cena;500
